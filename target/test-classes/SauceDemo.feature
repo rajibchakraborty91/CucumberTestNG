@@ -14,10 +14,10 @@
 #@ (Tags/Labels):To group Scenarios
 #<> (placeholder)
 #""
-## (Comments)
+## (Comments)__##
 #Sample Feature Definition Template
 
-  Feature: Sauce Demo
+  Feature: SauceDemo1
 
 @Functional
 	Scenario: Saucedemo testing
