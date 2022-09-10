@@ -1,0 +1,6 @@
+Runner\TestRun.class
+StepsK\SauceDemoLoginSteps.class
+Pages\BaseClass.class
+StepsK\HelloWorldSteps.class
+Pages\BestSellers.class
+Pages\SauceDemoPage.class
