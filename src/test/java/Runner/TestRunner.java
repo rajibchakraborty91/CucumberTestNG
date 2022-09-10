@@ -11,9 +11,9 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features={"src/test/resources/HelloWorld.feature"} , 
+@CucumberOptions(features={"src/test/resources/SauceDemo.feature"} , 
 glue= "StepsK",
-tags= ("@Regression or @smoke" ),
+tags= ("not @Regression" ),
 plugin= {"pretty", "html:target/cucumberreports.html"},
 monochrome=true
 		)
