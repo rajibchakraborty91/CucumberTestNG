@@ -17,7 +17,7 @@
 ## (Comments)
 #Sample Feature Definition Template
 
-  Feature: Sauce Demo
+  Feature: SauceDemo
 
 @Functional
 	Scenario: Saucedemo testing
